@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClickButtons", "ClickButtons\ClickButtons.csproj", "{8CE16E3C-3CBE-4237-8870-7222816212D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CE16E3C-3CBE-4237-8870-7222816212D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CE16E3C-3CBE-4237-8870-7222816212D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CE16E3C-3CBE-4237-8870-7222816212D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CE16E3C-3CBE-4237-8870-7222816212D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D5EF24B-AD16-4669-B92B-4A57AC122EBB}
+	EndGlobalSection
+EndGlobal
